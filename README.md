@@ -4,10 +4,11 @@
 
 ![](https://raw.githubusercontent.com/yuubinnkyoku/yuubinnkyoku/output/github-contribution-grid-snake.svg)
 
-## 🌱 Skills
+## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,discord,gcp,github,notion,py,unity,vscode,windows," />
 <br>
 
+## Status 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuubinnkyoku&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuubinnkyoku&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuubinnkyoku&theme=tokyonight)
