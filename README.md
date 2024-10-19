@@ -1,6 +1,4 @@
-![](https://komarev.com/ghpvc/?username=yuubinnkyoku)
-
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/yuubinnkyoku0730/posts.svg)](http://qiita.com/yuubinnkyoku0730)
+![](https://komarev.com/ghpvc/?username=yuubinnkyoku)[![My Qiita posts](https://qiita-badge.apiapi.app/s/yuubinnkyoku0730/posts.svg)](http://qiita.com/yuubinnkyoku0730)
 
 ![](https://raw.githubusercontent.com/yuubinnkyoku/yuubinnkyoku/output/github-contribution-grid-snake.svg)
 
