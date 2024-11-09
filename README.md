@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/yuubinnkyoku/yuubinnkyoku/output/github-contribution-grid-snake.svg)
 
 ## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,dart,py,bots,docker,gcp,github,notion,unity,vscode,windows,notion,flutter,pwsh,twitter,discord,misskey,gmail" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,dart,py,bots,docker,gcp,github,notion,unity,vscode,windows,notion,flutter,pwsh,twitter,discord" />
 <br>
 
 ## Status 
