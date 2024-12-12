@@ -8,4 +8,4 @@
 
 ## Stats
 ![yuubinnkyoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuubinnkyoku&show_icons=true&count_private=true&theme=dark)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=yuubinnkyoku&langs_count=5&theme=dark&hide=html)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=yuubinnkyoku&show_icons=true&count_private=true&langs_count=5&theme=dark&hide=html&layout=compact)
