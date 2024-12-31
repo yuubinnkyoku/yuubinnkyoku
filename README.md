@@ -10,3 +10,4 @@
 ![yuubinnkyoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuubinnkyoku&show_icons=true&count_private=true&theme=dark)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=yuubinnkyoku&show_icons=true&count_private=true&theme=dark&layout=compact)
 ![summary card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaakiyu&theme=monokai)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yaakiyu)](https://github.com/ryo-ma/github-profile-trophy)
