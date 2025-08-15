@@ -1,6 +1,6 @@
-SecCampJunior2025
-
 ![](https://komarev.com/ghpvc/?username=yuubinnkyoku)[![Badge](https://cp-logo.vercel.app/atcoder/yuubinnkyoku?logo=true)](https://atcoder.jp/users/yuubinnkyoku)
+電子電脳技術研究会 責任者
+SecCampJunior2025
 
 ![](https://raw.githubusercontent.com/yuubinnkyoku/yuubinnkyoku/output/github-contribution-grid-snake.svg)
 
