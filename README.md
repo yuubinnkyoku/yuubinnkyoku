@@ -31,6 +31,9 @@
 
 <h3 align="center">🔗 Connect with me</h3>
 
+<a href="https://twitter.com/yuubinnkyoku_mk">
+    <img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow @yuubinnkyou_mk">
+</a>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
