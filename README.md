@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=yuubinnkyoku)[![Badge](https://cp-logo.vercel.app/atcoder/yuubinnkyoku?logo=true)](https://atcoder.jp/users/yuubinnkyoku)
 
-## 経歴
+<h3 align="center">Statistics</h3>
 - 電子電脳技術研究会 責任者
 - セキュリティ・キャンプ2025ジュニア 修了
 
