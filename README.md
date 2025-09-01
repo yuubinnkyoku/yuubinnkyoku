@@ -16,7 +16,9 @@ Hi! I'm a junior high school student who loves software development and competit
 ---
 
 <h3 align="center">🛠️ Skills</h3>
+<h4 align="center">Programming Languages</h4>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,dart,py,bots,docker,gcp,github,notion,unity,vscode,windows,notion,flutter,pwsh,twitter,discord" />
+<h4 align="center">Programming Languages</h4>
 
 
 
