@@ -23,10 +23,10 @@ Hi! I'm a junior high school student who loves software development and competit
 <img alt="framework skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=flutter,unity,bots,react,nuxt,next,tailwind" />
 
 <h4 align="center">DevOps</h4>
-<img alt="devops skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=docker,gcp,github,pwsh" />
+<img alt="devops skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=docker,gcp,github,gitlab,pwsh" />
 
 <h4 align="center">Tools / Platforms</h4>
-<img alt="tools skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,windows,notion,discord,twitter" />
+<img alt="tools skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,windows,notion,discord,twitter,linux" />
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
