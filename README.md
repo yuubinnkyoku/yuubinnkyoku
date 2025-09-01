@@ -1,5 +1,5 @@
 
-<img src="assets/metrics.svg" alt="Metrics">
+<img src="github-metrics.svg" alt="Metrics">
 
 ![](https://komarev.com/ghpvc/?username=yuubinnkyoku)[![Badge](https://cp-logo.vercel.app/atcoder/yuubinnkyoku?logo=true)](https://atcoder.jp/users/yuubinnkyoku)
 
