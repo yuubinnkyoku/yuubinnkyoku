@@ -41,6 +41,7 @@ Hi! I'm a junior high school student who loves software development and competit
 <h3 align="center">🔗 Connect with me</h3>
 
 <!-- 開発者系 -->
+<a href="https://yuubinnkyoku.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-21759B.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://github.com/yuubinnkyoku" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://huggingface.co/yuubinnkyoku" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-yellow.svg?&style=for-the-badge&logo=HuggingFace&logoColor=white" /></a>
 <a href="https://zenn.dev/yuubinnkyoku" target="_blank"><img alt="zenn" src="https://img.shields.io/badge/zenn-FFFFFF.svg?&style=for-the-badge&logo=zenn" /></a>
