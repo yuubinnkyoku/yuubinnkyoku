@@ -22,7 +22,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">Experience</h3>
+<h3 align="center">💼 Experience</h3>
 
 - [電子電脳技術研究会](https://github.com/tsukuba-denden) 責任者
 - セキュリティ・キャンプ2025 ジュニア 修了
