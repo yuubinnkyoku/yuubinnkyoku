@@ -18,8 +18,9 @@ Hi! I'm a junior high school student who loves software development and competit
 <h3 align="center">🛠️ Skills</h3>
 <h4 align="center">Programming Languages</h4>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,dart,py"/>
+
 <h4 align="center">Framework</h4>
-<img alt="framework skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=flutter,unity,bots" />
+<img alt="framework skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=flutter,unity,bots,react,nuxt,next,tailwind" />
 
 <h4 align="center">DevOps</h4>
 <img alt="devops skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=docker,gcp,github,pwsh" />
