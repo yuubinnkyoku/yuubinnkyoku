@@ -53,6 +53,8 @@ Hi! I'm a junior high school student who loves software development and competit
 <a href="https://www.reddit.com/user/yuubinnkyoku_mk/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" /></a>
 <a href="https://discord.gg/Ptabd9wgYR" target="_blank"><img alt="discord" src="https://img.shields.io/badge/discord-5d6af2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCI_EfXMu2Iu03ajgVdw6JmQ" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="http://www.youtube.com/@yuubinnkyokusub" target="_blank"><img alt="YouTube Sub" src="https://img.shields.io/badge/YouTube(Sub)-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://scratch.mit.edu/users/yuubinnkyoku0730/" target="_blank"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?&style=for-the-badge&logo=scratch&logoColor=white" /></a>
 <a href="https://bsky.app/profile/yuubinnkyoku.bsky.social" target="_blank"><img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0285FF.svg?&style=for-the-badge&logo=bluesky&logoColor=white" /></a>
 <a href="https://www.threads.com/@yuubinnkyoku_mk" target="_blank"><img alt="Threads" src="https://img.shields.io/badge/Threads-000000.svg?&style=for-the-badge&logo=threads&logoColor=white" /></a>
 <a href="https://www.twitch.tv/yuubinnkyoku" target="_blank"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" /></a>
