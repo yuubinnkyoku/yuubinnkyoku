@@ -45,8 +45,10 @@ Hi! I'm a junior high school student who loves software development and competit
 
 <h3 align="center">💼 Experience</h3>
 
+- Google Al Essentials 修了
 - [電子電脳技術研究会](https://github.com/tsukuba-denden) 責任者
 - セキュリティ・キャンプ2025 ジュニア 修了
+- グローバル消費インテリジェンス寄附講座(GCI) 2025 Summer 修了
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
