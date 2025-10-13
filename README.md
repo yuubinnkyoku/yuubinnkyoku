@@ -96,7 +96,9 @@ Hi! I'm a junior high school student who loves software development and competit
 
 ![summary card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuubinnkyoku&theme=monokai)
 
-![Profile views](https://komarev.com/ghpvc/?username=yuubinnkyoku)
+[![yuubinnkyoku profile views since 20251013](https://u8views.com/api/v1/github/profiles/137483288/views/day-week-month-total-count.svg)](https://u8views.com/github/yuubinnkyoku)
+
+<!--![Profile views](https://komarev.com/ghpvc/?username=yuubinnkyoku)-->
 
 <!--![yuubinnkyoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuubinnkyoku&show_icons=true&count_private=true&theme=dark)-->
 <!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=yuubinnkyoku&show_icons=true&count_private=true&theme=dark&layout=compact)-->
