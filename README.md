@@ -5,6 +5,7 @@ Hi! I'm a junior high school student who loves software development and competit
 
 - 🧑‍💻 **AtCoder:** [![Badge](https://cp-logo.vercel.app/atcoder/yuubinnkyoku?logo=true)](https://atcoder.jp/users/yuubinnkyoku)
 - 🏎️ **Hobby:** MarioKart、Gadget
+- 📱 **Device:** nubia Z80 Ultra
 - 🔧 **Tool:** VSCode, Obsidian, Floorp, Proxmox
 
 <p align="center">
@@ -56,6 +57,7 @@ Hi! I'm a junior high school student who loves software development and competit
 - [電子電脳技術研究会](https://github.com/tsukuba-denden) 責任者
 - セキュリティ・キャンプ2025 ジュニア 修了
 - グローバル消費インテリジェンス寄附講座(GCI) 2025 Summer 修了
+- DL基礎 修了
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -69,6 +71,7 @@ Hi! I'm a junior high school student who loves software development and competit
 	<a href="https://zenn.dev/yuubinnkyoku" target="_blank"><img alt="zenn" src="https://img.shields.io/badge/zenn-FFFFFF.svg?&style=for-the-badge&logo=zenn" /></a>
 	<a href="https://qiita.com/yuubinnkyoku_mk" target="_blank"><img alt="Qiita" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
 	<a href="https://atcoder.jp/users/yuubinnkyoku" target="_blank"><img alt="atcoder" src="https://img.shields.io/badge/atcoder-FFFFFF.svg?&style=for-the-badge&logo=atcoder&logoColor=black" /></a>
+	<a href="https://codeberg.org/yuubinnkyoku" target="_blank"><img alt="Codeberg" src="https://img.shields.io/badge/Codeberg-2185D0.svg?&style=for-the-badge&logo=codeberg&logoColor=white" /></a>
 </p>
 
 <!-- SNS系 -->
