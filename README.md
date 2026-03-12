@@ -72,6 +72,10 @@ Hi! I'm a junior high school student who loves software development and competit
 	<a href="https://qiita.com/yuubinnkyoku_mk" target="_blank"><img alt="Qiita" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
 	<a href="https://atcoder.jp/users/yuubinnkyoku" target="_blank"><img alt="atcoder" src="https://img.shields.io/badge/atcoder-FFFFFF.svg?&style=for-the-badge&logo=atcoder&logoColor=black" /></a>
 	<a href="https://codeberg.org/yuubinnkyoku" target="_blank"><img alt="Codeberg" src="https://img.shields.io/badge/Codeberg-2185D0.svg?&style=for-the-badge&logo=codeberg&logoColor=white" /></a>
+	<a href="https://gitlab.com/yuubinnkyoku" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+	<a href="https://ja.crowdin.com/profile/yuubinnkyoku" target="_blank"><img alt="Crowdin" src="https://img.shields.io/badge/Crowdin-2E3340.svg?&style=for-the-badge&logo=crowdin&logoColor=white" /></a>
+	<a href="https://www.kaggle.com/yuubinnkyoku" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+	<a href="https://www.qcoder.jp/ja/users/yuubinnkyoku" target="_blank"><img alt="QCoder" src="https://img.shields.io/badge/QCoder-FFFFFF.svg?&style=for-the-badge" /></a>
 </p>
 
 <!-- SNS系 -->
@@ -99,6 +103,7 @@ Hi! I'm a junior high school student who loves software development and competit
 	<a href="https://mkcentral.com/ja/registry/players/profile?id=37565" target="_blank"><img alt="MKCentral" src="https://img.shields.io/badge/MKCentral-166534.svg?&style=for-the-badge" /></a>
 	<a href="https://onlinemathcontest.com/users/yuubinnkyoku" target="_blank"><img alt="Online Math Contest" src="https://img.shields.io/badge/Online%20Math%20Contest-FFFFFF.svg?&style=for-the-badge" /></a>
 	<a href="https://www.geartics.com/yuubinkyoku0730" target="_blank"><img alt="Geartics" src="https://img.shields.io/badge/Geartics-027cb7.svg?&style=for-the-badge" /></a>
+	<a href="https://kleismic.com/profile/yuubinnkyoku" target="_blank"><img alt="Kleismic" src="https://img.shields.io/badge/Kleismic-6366f1.svg?&style=for-the-badge" /></a>
 </p>
 
 
