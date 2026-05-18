@@ -54,6 +54,7 @@ Hi! I'm a japanese high school student who loves software development and compet
 
 - Google Al Essentials 修了
 - [電子電脳技術研究会](https://github.com/tsukuba-denden) 元責任者
+- セキュリティ・キャンプ ミニ 色々
 - セキュリティ・キャンプ2025 ジュニア 修了
 - グローバル消費インテリジェンス寄附講座(GCI) 2025 Summer 修了
 - Deep Learning 基礎講座 2025 Autumn 修了
