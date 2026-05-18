@@ -53,9 +53,11 @@ Hi! I'm a japanese high school student who loves software development and compet
 <h3 align="center">💼 Experience</h3>
 
 - Google Al Essentials 修了
-- [電子電脳技術研究会](https://github.com/tsukuba-denden) 責任者
+- [電子電脳技術研究会](https://github.com/tsukuba-denden) 元責任者
 - セキュリティ・キャンプ2025 ジュニア 修了
 - グローバル消費インテリジェンス寄附講座(GCI) 2025 Summer 修了
+- Deep Learning 基礎講座 2025 Autumn 修了
+- 第2回日本人工知能オリンピック（JOAI2026） 銅賞
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
