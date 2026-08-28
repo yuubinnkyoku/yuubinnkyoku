@@ -56,6 +56,7 @@ Hi! I'm a japanese high school student who loves software development and compet
 - [電子電脳技術研究会](https://github.com/tsukuba-denden) 元責任者
 - セキュリティ・キャンプ ミニ 色々
 - セキュリティ・キャンプ2025 ジュニア 修了
+- セキュリティ・キャンプ2026 全国大会 開発L2 NPU班 修了
 - グローバル消費インテリジェンス寄附講座(GCI) 2025 Summer 修了
 - Deep Learning 基礎講座 2025 Autumn 修了
 - 第2回日本人工知能オリンピック（JOAI2026） 銅賞
