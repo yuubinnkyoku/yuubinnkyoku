@@ -30,6 +30,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tokyo
+          repositories: 100
+          repositories_batch: 20
           plugin_achievements: no
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
