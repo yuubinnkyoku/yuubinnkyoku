@@ -12,14 +12,6 @@ Hi! I'm a japanese high school student who loves software development and compet
   
 </p>
 
-<h3 align="center">🎵 Recently Played</h3>
-
-<p align="center">
-  <a href="https://www.last.fm/user/yuubinnkyoku">
-    <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=yuubinnkyoku&count=5&theme=tokyonight" alt="Last.fm の最近の再生履歴" />
-  </a>
-</p>
-
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
@@ -70,6 +62,14 @@ Hi! I'm a japanese high school student who loves software development and compet
 - 第2回日本人工知能オリンピック（JOAI2026） 銅賞
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="center">🎵 Recently Played</h3>
+
+<p align="center">
+  <a href="https://www.last.fm/user/yuubinnkyoku">
+    <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=yuubinnkyoku&count=5&theme=tokyonight" alt="Last.fm の最近の再生履歴" />
+  </a>
+</p>
 
 <h3 align="center">🔗 Connect with me</h3>
 
