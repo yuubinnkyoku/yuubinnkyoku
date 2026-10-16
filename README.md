@@ -71,6 +71,10 @@ Hi! I'm a japanese high school student who loves software development and compet
   </a>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section divider" />
+</p>
+
 <h3 align="center">🔗 Connect with me</h3>
 
 <!-- 開発者系 -->
