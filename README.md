@@ -12,6 +12,14 @@ Hi! I'm a japanese high school student who loves software development and compet
   
 </p>
 
+<h3 align="center">🎵 Recently Played</h3>
+
+<p align="center">
+  <a href="https://www.last.fm/user/yuubinnkyoku">
+    <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=yuubinnkyoku&count=5&theme=tokyonight" alt="Last.fm の最近の再生履歴" />
+  </a>
+</p>
+
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
